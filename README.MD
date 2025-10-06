@@ -155,10 +155,4 @@ Este proyecto forma parte de las actividades académicas del curso de Base de Da
 - **Modelo**: Esquema Estrella (Star Schema)
 - **Metodología**: Kimball Dimensional Modeling
 - **ETL**: Procesos batch programados
-
-## 📞 Contacto
-
-Para consultas sobre este proyecto, contactar al equipo de desarrollo del DataMart Jardinería.
-
----
 *Proyecto desarrollado como parte del curso de Base de Datos II - Universidad*
